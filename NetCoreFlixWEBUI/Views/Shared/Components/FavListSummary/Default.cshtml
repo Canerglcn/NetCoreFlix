@@ -1,0 +1,19 @@
+﻿@model NetCoreFlixWEBUI.Models.FavListSummaryViewModel
+
+    <ul class="dropdown-menu">
+        @foreach (var item in Model.FavoriteMovies.FavoriteMovieList)
+        {
+            <li>
+                <a>@item.Movie.Name <span class="badge badge-success">@item.GivenScore</span></a>
+            </li>
+        }
+
+        <li role="separator" class="divider"></li>
+        <li>
+            <a><span class="glyphicon glyphicon-play glyphicon-align-left" aria-hidden="true"></span> Total: <span class="badge badge-warning"> @Model.FavoriteMovies.Total</span>  </a>
+        </li>
+        <li role="separator" class="divider"></li>
+        <li>
+            <a asp-controller="FavoriteMovies" asp-action="List">Go to Favorite List</a>
+        </li>
+    </ul>

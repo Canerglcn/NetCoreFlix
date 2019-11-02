@@ -1,0 +1,58 @@
+﻿@model NetCoreFlixWEBUI.Models.FavListSummaryViewModel
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<h2 align="center" style="color:white;" >Your Favorite List</h2>
+<table class="table table-bordered table-sm table-dark">
+    <thead class="thead-dark">
+        <tr>
+
+            <td align="center">Movie Name</td>
+
+            <td align="center">ShortDescription</td>
+
+            <td align="center">Numberof Favorite Movies</td>
+            <td align="center"></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.FavoriteMovies.FavoriteMovieList)
+        {
+        <tr>
+            <td>@item.Movie.Name</td>
+            <td>@item.Movie.ShortDescription</td>
+            <td>@item.GivenScore</td>
+            <td class="text-right"><a class="btn btn-xs btn-danger" asp-controller="FavoriteMovies" asp-action="Remove" asp-route-movieId="@item.Movie.MovieId"><span class="glyphicon glyphicon-remove"></span> remove from List</a></td>
+        </tr>
+        }
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <h3>Total</h3>
+            </td>
+            <td class="text-right">
+                <h3>
+                    <strong>@Model.FavoriteMovies.Total</strong>
+                </h3>
+            </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-xs btn-primary">
+                    <span class="glyphicon glyphicon-shopping-cart"></span> Continue Add Movies
+                </a>
+            </td>
+            <td class="text-right">
+                <a asp-controller="FavoriteMovies" asp-action="Complete" class="btn btn-xs btn-success">
+                    <span class="glyphicon glyphicon-shopping-play"></span> Send Your Favorite List
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>

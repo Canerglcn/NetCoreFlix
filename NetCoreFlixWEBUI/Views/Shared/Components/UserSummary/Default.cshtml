@@ -1,0 +1,9 @@
+﻿@model NetCoreFlixWEBUI.Models.UserDetailsViewModel
+
+
+    @if (!String.IsNullOrEmpty(Model.UserName))
+    {
+
+        <a class="dropdown-item" asp-controller="Account" asp-action="LogOff">LogOff</a>
+      
+    }

@@ -1,0 +1,49 @@
+﻿@model NetCoreFlixWEBUI.Models.MovieListViewModel
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+    <div>
+
+
+        @foreach (var movie in Model.Movies)
+        {
+            <div class="card mb-3">
+                <div class="row no-gutter">
+                    <div class="col-md-4">
+                        <img src="@movie.ImageUrl" alt="@movie.Description" class="card-img">
+                   
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a asp-action="Details" asp-controller="Home" asp-route-id="@movie.MovieId"> @movie.Name </a>
+
+                            </h5>
+                            <p class="card-text">
+                                @movie.ShortDescription
+                            </p>
+                            <p class="card-text">
+                               <a class="btn btn-xs btn-success" asp-controller="FavoriteMovies" asp-action="AddToFav" asp-route-movieId="@movie.MovieId">Add to Favorite Movie</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+    <movie-list-pager 
+                current-category="@Model.CurrentCategory"
+                current-page="@Model.CurrentPage"
+                page-count="@Model.PageCount"
+                page-size="@Model.PageSize">
+    </movie-list-pager>
+
+
+
+
+   
+

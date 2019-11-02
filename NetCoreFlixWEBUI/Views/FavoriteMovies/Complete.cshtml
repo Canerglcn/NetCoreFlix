@@ -1,0 +1,42 @@
+﻿@model NetCoreFlixWEBUI.Models.MemberDetailsViewModel
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<script src="/node_modules/jquery/dist/jquery.min.js"></script>
+<script src="/node_modules/jquery-validation/dist/jquery.validate.js"></script>
+<script src="/node_modules/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+<h2>Member Details</h2>
+
+<form asp-controller="FavoriteMovies" asp-action="Complete" method="post">
+    <div class="form-group">
+        <label asp-for="MemberDetails.FirstName"></label>
+        <input asp-for="MemberDetails.FirstName" class="form-control" placeholder="First Name">
+        <span asp-validation-for="MemberDetails.FirstName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberDetails.LastName"></label>
+        <input asp-for="MemberDetails.LastName" class="form-control" placeholder="Last Name">
+        <span asp-validation-for="MemberDetails.LastName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberDetails.Age"></label>
+        <input asp-for="MemberDetails.Age" class="form-control" placeholder="City">
+        <span asp-validation-for="MemberDetails.Age"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberDetails.City"></label>
+        <input asp-for="MemberDetails.City" class="form-control" placeholder="City">
+        <span asp-validation-for="MemberDetails.City"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MemberDetails.Email"></label>
+        <input asp-for="MemberDetails.Email" class="form-control" placeholder="City">
+        <span asp-validation-for="MemberDetails.Email"></span>
+    </div>
+
+    <input type="submit" value="Send Your  Favorite List" class="btn btn-xs btn-success" />
+</form>

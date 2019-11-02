@@ -1,0 +1,29 @@
+﻿@model NetCoreFlixWEBUI.Models.MovieListViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+
+<div class="container" style="margin-left:400px;">
+    <h4>Movie List</h4>
+
+    <a class="btn btn-xs btn-success" asp-controller="Admin" asp-action="Add">Add a new movie</a>
+    <br />
+    <br />
+    <table class="table table-responsive border" 1">
+        <tr>
+            <td>Movie Name</td>
+
+        </tr>
+        @foreach (var movie in Model.Movies)
+        {
+            <tr>
+                <td>@movie.Name</td>
+                <td><a class="btn btn-xs btn-info" asp-controller="Admin" asp-action="Update" asp-route-movieId="@movie.MovieId">Update</a></td>
+                <td><a class="btn btn-xs btn-danger" asp-controller="Admin" asp-action="Delete" asp-route-movieId="@movie.MovieId">Delete</a></td>
+            </tr>
+        }
+    </table>
+</div>

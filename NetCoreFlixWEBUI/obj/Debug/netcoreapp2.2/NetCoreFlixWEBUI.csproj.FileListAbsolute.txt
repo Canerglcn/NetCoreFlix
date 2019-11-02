@@ -1,0 +1,111 @@
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.deps.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.dev.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfo.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\package.json
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.dll
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.input.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.output.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorCoreGenerate.cache
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_Layout.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csproj.CopyComplete
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\FavListSummary\Default.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\List.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\Complete.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_AdminLayout.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Add.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\acer\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\UserSummary\Default.cshtml.g.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.deps.json
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.json
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.dev.json
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.dll
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csprojAssemblyReference.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csproj.CoreCompileInputs.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfoInputs.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfo.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.input.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.output.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorCoreGenerate.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Add.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\Complete.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\List.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\FavListSummary\Default.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\UserSummary\Default.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_AdminLayout.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_Layout.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cache
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cs
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csproj.CopyComplete
+C:\Users\skype\Desktop\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.deps.json
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.json
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.runtimeconfig.dev.json
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.dll
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\bin\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csprojAssemblyReference.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csproj.CoreCompileInputs.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorAssemblyInfo.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfoInputs.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.AssemblyInfo.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.input.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.TagHelpers.output.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorCoreGenerate.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Add.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\Complete.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\FavoriteMovies\List.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\FavListSummary\Default.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\UserSummary\Default.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_AdminLayout.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_Layout.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cache
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.RazorTargetAssemblyInfo.cs
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.Views.pdb
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.dll
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.pdb
+C:\Users\skype\Desktop\Software Projects\NetCoreFlix\NetCoreFlixWEBUI\NetCoreFlixWEBUI\obj\Debug\netcoreapp2.2\NetCoreFlixWEBUI.csproj.CopyComplete

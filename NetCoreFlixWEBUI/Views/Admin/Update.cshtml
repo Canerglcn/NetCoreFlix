@@ -1,0 +1,39 @@
+﻿@model NetCoreFlixWEBUI.Models.MovieUpdateViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h2>Update a Movie</h2>
+
+<form asp-controller="Admin" asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="Movie.Name"></label>
+        <input asp-for="Movie.Name" class="form-control" placeholder="Movie Name" />
+        <span asp-validation-for="Movie.Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.CategoryId"></label>
+        <select asp-for="Movie.CategoryId" class="form-control"
+                asp-items="@(new SelectList(Model.Categories,"CategoryId","Name"))"></select>
+        <span asp-validation-for="Movie.CategoryId"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.ShortDescription"></label>
+        <input asp-for="Movie.ShortDescription" class="form-control" placeholder="Short Description" />
+        <span asp-validation-for="Movie.ShortDescription"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.Description"></label>
+        <input asp-for="Movie.Description" class="form-control" placeholder=" Description" />
+        <span asp-validation-for="Movie.Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movie.ImageUrl"></label>
+        <input asp-for="Movie.ImageUrl" class="form-control" placeholder="Units In Stock" />
+        <span asp-validation-for="Movie.ImageUrl"></span>
+    </div>
+    <input type="hidden" asp-for="Movie.MovieId" />
+    <input type="submit" value="Update" class="btn btn-xs btn-success" />
+</form>
