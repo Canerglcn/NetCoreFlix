@@ -12940,11 +12940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skype\\Desktop\\Software Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI.csproj",
+      "projectUniqueName": "C:\\Users\\skype\\Desktop\\Software-Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI.csproj",
       "projectName": "NetCoreFlixWEBUI",
-      "projectPath": "C:\\Users\\skype\\Desktop\\Software Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI.csproj",
+      "projectPath": "C:\\Users\\skype\\Desktop\\Software-Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI.csproj",
       "packagesPath": "C:\\Users\\skype\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skype\\Desktop\\Software Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\obj\\",
+      "outputPath": "C:\\Users\\skype\\Desktop\\Software-Projects\\NetCoreFlix\\NetCoreFlixWEBUI\\NetCoreFlixWEBUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
